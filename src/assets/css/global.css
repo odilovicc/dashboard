@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Inter", sans-serif;
+}
+html{
+    color-scheme: dark;
+}
+
+.v-enter-active,
+.v-leave-active {
+    transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+    opacity: 0;
+}
+
+@layer components {
+    .highlight-tag {
+    @apply text-red-500
+    }
+    .nav-active {
+        @apply font-bold
+    }
+}

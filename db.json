@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": "7f14",
+      "title": "Go to jumah",
+      "description": "",
+      "completed": true,
+      "timeCompleted": "19:47:10 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+      "id": "9261",
+      "title": "Watch full course",
+      "description": "",
+      "completed": true,
+      "timeCompleted": "19:47:12 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+      "id": "eb1c",
+      "title": "Adding functionality to website",
+      "description": "",
+      "completed": true,
+      "timeCompleted": "20:49:20 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+      "id": "b857",
+      "title": "Fix #notes",
+      "description": "Task timeout",
+      "completed": true,
+      "timeCompleted": "15:37:03 GMT+0500 (Узбекистан, стандартное время)"
+    },
+    {
+      "id": "17ea",
+      "title": "Fix #home",
+      "description": "Fix clear function",
+      "completed": false,
+      "willBeDeleted": "2024-05-19"
+    }
+  ]
+}
